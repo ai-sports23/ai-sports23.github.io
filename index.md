@@ -44,7 +44,7 @@ Half day
 - Hsu-Yung Cheng (National Central University, Taiwan)
 - Moritz Einfalt (University of Augsburg, Germany)
 - Patrick Lucey (STATS, USA)
-- Wen-Huang Cheng (National Yang Ming Chiao Tung University, Taiwan)
+- Wen-Huang Cheng (National Taiwan University, Taiwan)
 - James Little (University of British Columbia, Canada)
 - Phoebe Chen (La Trobe University, Australia)
 - Shih-Chia Huang (National Taipei University of Technology, Taiwan)
