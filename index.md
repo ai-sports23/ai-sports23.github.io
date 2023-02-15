@@ -3,6 +3,11 @@
 {:toc}
 ***
 -->
+
+---
+title: 4th Artificial Intelligence in Sports (AI-Sports) Workshop
+---
+
 ## **Overview**
 
 The rise in potential programs demonstrates encouraging technical developments in the sports sector. Along with its advantages, it also has drawbacks. For instance, it is evident that additional data is required or insufficient to produce learning models and artificial intelligence. It is clear that big data sports analytics has a robust and positive link to maximizing the sports team's potential, and any club that does not aggressively combine with big data analytics would find itself at a significant disadvantage.  
