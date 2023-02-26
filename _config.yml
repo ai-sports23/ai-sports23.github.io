@@ -2,9 +2,10 @@ plugins:
   - jekyll-relative-links
 # remote-theme: nicoelayda/celeste
 remote-theme: link9596/jekyll-theme-Hydrogen
+# baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 markdown: kramdown
 title: 4th Artificial Intelligence in Sports (AI-Sports) Workshop
-backround: './res/bg.jpg'
+backround: /res/bg.jpg
 # URL of the Home page image
 # index_cover: /res/bg.jpg
 relative_links:
