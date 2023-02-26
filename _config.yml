@@ -3,7 +3,7 @@ plugins:
 remote-theme: nicoelayda/celeste
 markdown: kramdown
 title: 4th Artificial Intelligence in Sports (AI-Sports) Workshop
-backround: '/res/bg.jpg'
+backround: './res/bg.jpg'
 relative_links:
   enabled: true
   collections: true
