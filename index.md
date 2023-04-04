@@ -41,24 +41,19 @@ The goal of this workshop is to advance the field of research on the techniques 
 ## **Duration** 
 Half day
 
-## **Reviewers**  
-- Tiziana D'Orazio (National Research Council of Italy, Italy)
+## **TPC Members**  
+- Tiziana D’Orazio (National Research Council of Italy, Italy)
 - Hsu-Yung Cheng (National Central University, Taiwan)
-- Moritz Einfalt (University of Augsburg, Germany)
-- Patrick Lucey (STATS, USA)
-- Wen-Huang Cheng (National Taiwan University, Taiwan)
 - James Little (University of British Columbia, Canada)
-- Phoebe Chen (La Trobe University, Australia)
-- Shih-Chia Huang (National Taipei University of Technology, Taiwan)
 - Chih-Chang Yu (Chung Yuan Christian University, Taiwan)
-- Changick Kim (Korea Advanced Institute of Science and Technology, Korea)
-- Wei-Yu Chiu (National Tsing Hua University, Taiwan)
-- Wei-Ta Chu (National Cheng Kung University, Taiwan)
-- Thomas B. Moeslund (Aalborg University, Denmark)
 - Huang-Chia Shih (Yuan Ze University, Taiwan)
 - Jenq-Neng Hwang (University of Washington, USA)
 - Takahiro Ogawa (Hokkaido University, Japan)
 - Rainer Lienhart (Augsburg University, Germany)
+- Hideo Saito (Keio University, Japan)
+- Michele Merler (IBM Research, USA)
+- Sho Takahashi (Hokkaido University, Japan)
+- Shin'ichi Satoh (National Institute of Informatics, Japan)
 
 ## **History**  
 - [The 3rd Artificial Intelligence in Sports (AI-Sports) Workshop](https://ai-sports22.github.io/)
@@ -70,7 +65,7 @@ Half day
 - Please submit your paper via the link: https://cmt3.research.microsoft.com/ICMEW2023. You will have to choose the 4th International Workshop on Artificial Intelligence in Sports as your track. Submissions can be of varying length and no longer than 6 pages, including all text, figures, and references. There is no distinction between long and short papers, but the authors may themselves decide on the appropriate length of the paper. All papers will undergo the same review process and review period.
 
 ## **Important dates**
-- Submission deadline : April 3
-- Review submission deadline April 17
-- Author notification April 19
-- Camera ready submission April 30
+- Submission deadline : April 10
+- Review submission deadline : April 22
+- Author notification : April 25
+- Camera ready submission  : May 1
