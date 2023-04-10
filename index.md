@@ -65,7 +65,7 @@ Half day
 - Please submit your paper via the link: https://cmt3.research.microsoft.com/ICMEW2023. You will have to choose the 4th International Workshop on Artificial Intelligence in Sports as your track. Submissions can be of varying length and no longer than 6 pages, including all text, figures, and references. There is no distinction between long and short papers, but the authors may themselves decide on the appropriate length of the paper. All papers will undergo the same review process and review period.
 
 ## **Important dates**
-- Submission deadline : April 13rd
+- Submission deadline : April 13
 - Review submission deadline : April 22
 - Author notification : April 25
 - Camera ready submission  : May 1
