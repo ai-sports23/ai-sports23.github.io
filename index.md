@@ -35,9 +35,6 @@ The goal of this workshop is to advance the field of research on the techniques 
 
 - **Thomas B. Moeslund** (Aalborg University, Denmark)
 
-## **Format**  
-5 oral presentations, 3 posters and demos, 1 invited speaker.  
-
 ## **Duration** 
 Half day
 
