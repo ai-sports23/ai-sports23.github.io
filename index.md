@@ -53,15 +53,8 @@ Half day
 - Shin'ichi Satoh (National Institute of Informatics, Japan)
 
 ## Schedule
-|Time         | Event             | Topic / Speaker(s)                               |
-| :---------: |:-----------------:| :-----------------------------------------------:|
-| 10:30~10:40	| Opening	Chair     | Huang-Chia Shih                                  |
-| 10:40~11:10	| Keynote	          | Topic: TBA<br>Speaker: Chih-Wei Yi <br>(Department of Computer Science, National Yang Ming Chiao Tung University)|
-| 11:10~11:25	| Paper Presentation #1	| Topic : Decomposed Key-point Detector for Swimming Pool Localization<br>Choongseop Lee (Kwangwoon Univ.)<br>Timothy Woinoski (Simon Fraser University)<br>Ivan Bajic (Simon Fraser University)|
-|11:25~11:40	| Paper Presentation #2	| Topic : Semantic Segmentation of Golf Courses for Course Rating Assistance<br>Jesper Mortensen (Aalborg University)<br>Vinícius Soares Matthiesen (Aalborg University)<br>Andreas Møgelmose (Aalborg University)|
-| 11:40~11:55	| Paper Presentation #3	| Topic : Disclosing Baseball Swing Characteristics Through Gripping Force and Movement Information<br>Yi-Hua Chu (Yuan Ze University, Taiwan)<br>Hong-Cai Chen (Yuan Ze University, Taiwan)<br>Huang-Chia Shih (Yuan-Ze University, Taiwan)|
-| 11:55~12:10	| Paper Presentation #4	| Topic : Analysis of Physical Phenomena in Golf Swing<br>Sheng-Kai Chen (Yuan Ze University, Taiwan)<br>Tzu-Yu Liu (Yuan Ze University, Taiwan)<br>Yan-Di Liu (Yuan Ze University, Taiwan)<br>Huang-Chia Shih (Yuan Ze University, Taiwan)|
-|12:10~12:15	|Closing and Photos| --- |
+<!---![image](https://github.com/ai-sports22/ai-sports22.github.io/raw/main/res/schedule.png)) -->
+![image](./res/schedule.png)
 
 
 ## **History**  
