@@ -7,7 +7,8 @@ remote_theme: link9596/jekyll-theme-Hydrogen
 description: "Workshop at IEEE International Conference on Multimedia (ICME) 2023"
 markdown: kramdown
 title: 4th Artificial Intelligence in Sports (AI-Sports) Workshop
-backround: https://github.com/ai-sports23/ai-sports23.github.io/raw/main/res/bg.jpg
+background: https://github.com/ai-sports23/ai-sports23.github.io/raw/main/res/bg.jpg
+#background: https://raw.githubusercontent.com/ai-sports23/ai-sports23.github.io/main/res/bg.jpg
 theme_color: 546E7A
 # URL of the Home page image
 # index_cover: res/bg.jpg
