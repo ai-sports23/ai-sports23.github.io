@@ -1,6 +1,7 @@
 plugins:
   - jekyll-relative-links
 # remote-theme: nicoelayda/celeste
+markdown: GFM
 remote-theme: link9596/jekyll-theme-Hydrogen
 # baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 description: "Workshop at IEEE International Conference on Multimedia (ICME) 2023"
