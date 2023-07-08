@@ -36,7 +36,7 @@ The goal of this workshop is to advance the field of research on the techniques 
 - **Thomas B. Moeslund** (Aalborg University, Denmark)
 
 ## **Duration** 
-10:30AM~ 12:15PM, July 14 (Friday), 2023
+10:30 AM ~ 12:15 PM, July 14 (Friday), 2023
 
 ## **TPC Members**  
 - Tiziana D’Orazio (National Research Council of Italy, Italy)
