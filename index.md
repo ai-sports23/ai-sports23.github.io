@@ -36,7 +36,7 @@ The goal of this workshop is to advance the field of research on the techniques 
 - **Thomas B. Moeslund** (Aalborg University, Denmark)
 
 ## **Duration** 
-10:30 AM ~ 12:15 PM, July 14 (Friday), 2023
+9:00 AM ~ 10:45 AM, July 14 (Friday), 2023
 
 ## **TPC Members**  
 - Tiziana D’Orazio (National Research Council of Italy, Italy)
@@ -54,7 +54,15 @@ The goal of this workshop is to advance the field of research on the techniques 
 
 ## Schedule
 <!---![image](https://github.com/ai-sports22/ai-sports22.github.io/raw/main/res/schedule.png)) -->
-![image](./res/schedule.png)
+<!---![image](./res/schedule.png) -->
+| ------------- |-------------------| -------------------------------------------------|
+| 09:00 ~ 09:10	| Opening	Chair     | Huang-Chia Shih                                  |
+| 09:10 ~ 09:40	| Keynote	          | Topic: TBA<br>Speaker: Chih-Wei Yi <br>(Department of Computer Science, National Yang Ming Chiao Tung University)|
+| 09:40 ~ 09:55	| Paper Presentation #1	| Topic : Decomposed Key-point Detector for Swimming Pool Localization<br>Choongseop Lee (Kwangwoon Univ.)<br>Timothy Woinoski (Simon Fraser University)<br>Ivan Bajic (Simon Fraser University)|
+| 09:55 ~ 10:10	| Paper Presentation #2	| Topic : Semantic Segmentation of Golf Courses for Course Rating Assistance<br>Jesper Mortensen (Aalborg University)<br>Vinícius Soares Matthiesen (Aalborg University)<br>Andreas Møgelmose (Aalborg University)|
+| 10:10 ~ 10:25	| Paper Presentation #3	| Topic : Disclosing Baseball Swing Characteristics Through Gripping Force and Movement Information<br>Yi-Hua Chu (Yuan Ze University, Taiwan)<br>Hong-Cai Chen (Yuan Ze University, Taiwan)<br>Huang-Chia Shih (Yuan-Ze University, Taiwan)|
+| 10:25 ~ 10:40	| Paper Presentation #4	| Topic : Analysis of Physical Phenomena in Golf Swing<br>Sheng-Kai Chen (Yuan Ze University, Taiwan)<br>Tzu-Yu Liu (Yuan Ze University, Taiwan)<br>Yan-Di Liu (Yuan Ze University, Taiwan)<br>Huang-Chia Shih (Yuan Ze University, Taiwan)|
+| 10:40 ~ 10:45	| Closing and Photos| --- |
 
 
 ## **History**  
