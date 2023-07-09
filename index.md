@@ -55,7 +55,7 @@ The goal of this workshop is to advance the field of research on the techniques 
 ## Schedule
 <!---![image](https://github.com/ai-sports22/ai-sports22.github.io/raw/main/res/schedule.png)) -->
 <!---![image](./res/schedule.png) -->
-| ------------- |-------------------| -------------------------------------------------|
+<!--- | ------------- |-------------------| -------------------------------------------------| -->
 | 09:00 ~ 09:10	| Opening	Chair     | Huang-Chia Shih                                  |
 | 09:10 ~ 09:40	| Keynote	          | Topic: TBA<br>Speaker: Chih-Wei Yi <br>(Department of Computer Science, National Yang Ming Chiao Tung University)|
 | 09:40 ~ 09:55	| Paper Presentation #1	| Topic : Decomposed Key-point Detector for Swimming Pool Localization<br>Choongseop Lee (Kwangwoon Univ.)<br>Timothy Woinoski (Simon Fraser University)<br>Ivan Bajic (Simon Fraser University)|
