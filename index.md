@@ -53,8 +53,10 @@ The goal of this workshop is to advance the field of research on the techniques 
 - Shin'ichi Satoh (National Institute of Informatics, Japan)
 
 ## Schedule
+
 <!---![image](https://github.com/ai-sports22/ai-sports22.github.io/raw/main/res/schedule.png)) -->
 <!---![image](./res/schedule.png) -->
+
 | Time          | Event             | Topic / Speaker(s)                                |
 | :------------ | :---------------- | :------------------------------------------------ | 
 | 09:00 ~ 09:10	| Opening	Chair     | Huang-Chia Shih                                   |
