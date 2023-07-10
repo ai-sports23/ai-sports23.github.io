@@ -59,8 +59,7 @@ The goal of this workshop is to advance the field of research on the techniques 
 
 | Time          | Event             | Topic / Speaker(s)                                |
 | :------------ | :---------------- | :------------------------------------------------ | 
-| 09:00 ~ 09:10	| Opening     | 
- Chair : Huang-Chia Shih                                   |
+| 09:00 ~ 09:10	| Opening     | Chair : Huang-Chia Shih      |
 | 09:10 ~ 09:40	| Keynote	          | Topic: Video Technology for Badminton Data Collection<br>Speaker: Chih-Wei Yi <br>(Department of Computer Science, National Yang Ming Chiao Tung University)|
 | 09:40 ~ 09:55	| Paper Presentation #1	| Topic : Decomposed Key-point Detector for Swimming Pool Localization<br>Choongseop Lee (Kwangwoon Univ.)<br>Timothy Woinoski (Simon Fraser University)<br>Ivan Bajic (Simon Fraser University) |
 | 09:55 ~ 10:10	| Paper Presentation #2	| Topic : Semantic Segmentation of Golf Courses for Course Rating Assistance<br>Jesper Mortensen (Aalborg University)<br>Vinícius Soares Matthiesen (Aalborg University)<br>Andreas Møgelmose (Aalborg University) |
