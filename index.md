@@ -59,7 +59,8 @@ The goal of this workshop is to advance the field of research on the techniques 
 
 | Time          | Event             | Topic / Speaker(s)                                |
 | :------------ | :---------------- | :------------------------------------------------ | 
-| 09:00 ~ 09:10	| Opening	Chair     | Huang-Chia Shih                                   |
+| 09:00 ~ 09:10	| Opening     | 
+ Chair : Huang-Chia Shih                                   |
 | 09:10 ~ 09:40	| Keynote	          | Topic: Video Technology for Badminton Data Collection<br>Speaker: Chih-Wei Yi <br>(Department of Computer Science, National Yang Ming Chiao Tung University)|
 | 09:40 ~ 09:55	| Paper Presentation #1	| Topic : Decomposed Key-point Detector for Swimming Pool Localization<br>Choongseop Lee (Kwangwoon Univ.)<br>Timothy Woinoski (Simon Fraser University)<br>Ivan Bajic (Simon Fraser University) |
 | 09:55 ~ 10:10	| Paper Presentation #2	| Topic : Semantic Segmentation of Golf Courses for Course Rating Assistance<br>Jesper Mortensen (Aalborg University)<br>Vinícius Soares Matthiesen (Aalborg University)<br>Andreas Møgelmose (Aalborg University) |
@@ -72,10 +73,6 @@ The goal of this workshop is to advance the field of research on the techniques 
 - [The 3rd Artificial Intelligence in Sports (AI-Sports) Workshop](https://ai-sports22.github.io/)
 - [AI-Sports '21: 2nd International Workshop on Artificial Intelligence in Sports](https://oz.nthu.edu.tw/~d917904/AI-Sports21.html)
 - [2020 IEEE International Workshop of Artificial Intelligence in Sports (1st AI-Sports)](https://2020.ieeeicme.org/www.2020.ieeeicme.org/index.php/workshops/index.html#Workshop1)
-
-## **Submission**
-- Please refer to the submission site for submission policies.
-- Please submit your paper via the link: https://cmt3.research.microsoft.com/ICMEW2023. You will have to choose the 4th International Workshop on Artificial Intelligence in Sports as your track. Submissions can be of varying length and no longer than 6 pages, including all text, figures, and references. There is no distinction between long and short papers, but the authors may themselves decide on the appropriate length of the paper. All papers will undergo the same review process and review period.
 
 ## **Important dates**
 - Submission deadline : April 13
